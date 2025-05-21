@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="primary">#6c5ce7</color>
+    <color name="primary_light">#a29bfe</color>
+    <color name="secondary">#a29bfe</color>
+    <color name="colorPrimary">#6c5ce7</color>
+    <color name="colorPrimaryDark">#5849c2</color>
+    <color name="colorAccent">#a29bfe</color>
+    <color name="primary_dark">#5649c0</color>
+    <!-- Couleurs pour les icônes -->
+    <color name="icon_purple_bg">#f3e8ff</color>
+    <color name="icon_red_bg">#fee2e2</color>
+    <color name="icon_blue_bg">#dbeafe</color>
+    <color name="icon_pink_bg">#fce7f3</color>  <!-- Rose plus clair -->
+    <color name="icon_green_bg">#dcfce7</color>
+    <color name="icon_yellow_bg">#fef9c3</color>
+    <color name="icon_teal_bg">#ccfbf1</color>
+    <color name="icon_gray_bg">#f1f5f9</color>
+
+    <!-- Couleurs pour les icônes elles-mêmes -->
+
+    <color name="yellow_dark">#eab308</color>
+    <color name="teal_dark">#0d9488</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#f1f5f9</color>
+    <color name="gray">#78909C</color>
+    <color name="gray_dark">#424242</color>
+    <color name="green">#22c55e</color>
+    <color name="red">#ef4444</color>
+    <color name="gray_616161">#616161</color>
+    <color name="green_4ade80">#4ade80</color>
+    <color name="yellow_facc15">#facc15</color>
+    <color name="red_f87171">#f87171</color>
+
+
+    <color name="gray_500">#9E9E9E</color>
+    <color name="emerald_500">#2ECC71</color>
+    <color name="red_600">#E53935</color>
+
+    <color name="blue_600">#1E88E5</color>
+       <!-- Pour les revenus -->
+    <color name="purple">#9333ea</color>     <!-- Logement -->
+    <color name="blue">#3b82f6</color>       <!-- Transport -->
+    <color name="orange">#f97316</color>     <!-- Alimentation -->
+    <color name="pink">#ec4899</color>       <!-- Shopping -->
+    <color name="yellow">#facc15</color>
+
+    <color name="background_light">#f8fafc</color>
+
+</resources>
